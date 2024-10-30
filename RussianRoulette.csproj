@@ -16,9 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Content Include="AAA.wav">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
     <Content Include="BG.wav">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

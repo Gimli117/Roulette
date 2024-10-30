@@ -24,7 +24,7 @@ namespace RussianRoulette
             miss.SoundLocation = AppDomain.CurrentDomain.BaseDirectory + "miss.wav";
 
             SoundPlayer dead = new SoundPlayer();
-            dead.SoundLocation = AppDomain.CurrentDomain.BaseDirectory + "AAA.wav";
+            dead.SoundLocation = AppDomain.CurrentDomain.BaseDirectory + "dead.wav";
 
             SoundPlayer musicBG = new SoundPlayer();
             musicBG.SoundLocation = AppDomain.CurrentDomain.BaseDirectory + "BG.wav";
